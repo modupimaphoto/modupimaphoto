@@ -1,4 +1,4 @@
-<img src="https://onedrive.live.com/embed?resid=3F63F2927FEAF270%217921&authkey=%21AA3UFfzqV-HFfoI" width="100%" height="auto" />
+<img src="https://onedrive.live.com/embed?resid=3F63F2927FEAF270%217925&authkey=%21AJmnOAhct3CGHNo" width="100%" height="auto" />
 
 <h1 align="center">Hi 👋, I'm Modupi</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
