@@ -1,11 +1,9 @@
-<img src="https://onedrive.live.com/embed?resid=3F63F2927FEAF270%21296&authkey=%21AJmnOAhct3CGHNo" width="100%" height="auto" />
-
 <h1 align="center">Hi 👋, I'm Modupi</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-- 🔭 I’m currently working on **Tip Calculator**
+- 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Nodejs, Express**
+- 🌱 I’m currently learning **Software Engineering on ALX**
 
 - 📫 How to reach me **modupimaphoto@gmail.com**
 
