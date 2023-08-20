@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Modupi</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working on **something cool.**
 
-- 🌱 I’m currently learning **Software Engineering on ALX**
+- 🌱 I’m currently learning **Software Engineering on ALX.**
 
 - 📫 How to reach me **modupimaphoto@gmail.com**
 
